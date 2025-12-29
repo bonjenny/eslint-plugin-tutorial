@@ -13,3 +13,4 @@ tester.run("no-literal", rule, {
     },
   ],
 });
+

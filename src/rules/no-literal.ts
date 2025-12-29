@@ -14,3 +14,4 @@ const rule: Rule.RuleModule = {
 };
 
 export = rule;
+
